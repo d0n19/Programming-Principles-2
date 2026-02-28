@@ -5,10 +5,6 @@ print("First item:", next(my_iter))
 print("Second item:", next(my_iter))
 
 
-
-
-
-
 print("\nLooping through the rest:")
 for item in my_iter:
     print(item)

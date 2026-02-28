@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Alice Smith",
+      "email": "alice@example.com",
+      "is_active": true,
+      "roles": ["admin", "user"]
+    },
+    {
+      "id": 2,
+      "name": "Bob Jones",
+      "email": "bob@example.com",
+      "is_active": false,
+      "roles": ["user"]
+    }
+  ],
+  "metadata": {
+    "version": 1.2,
+    "description": "Sample data for Python Practice 4"
+  }
+}

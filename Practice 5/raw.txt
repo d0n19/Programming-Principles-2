@@ -1,0 +1,11 @@
+STORE: Magnum
+
+Milk            2.50
+Bread           1.20
+Chocolate       3.40
+Apples          4.10
+
+Date: 03.03.2026
+Time: 16:00:00
+
+Payment Method: CARD

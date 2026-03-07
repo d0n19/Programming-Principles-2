@@ -1,4 +1,4 @@
-STORE: Magnum
+STORE: Magnum		
 
 Milk            2.50
 Bread           1.20
